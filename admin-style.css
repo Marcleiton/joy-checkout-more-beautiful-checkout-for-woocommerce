@@ -1,0 +1,9 @@
+#custom-checkout-layouts-for-woocommerce-update{
+    display: none !important;
+}
+tr[data-plugin="custom-checkout-layouts-for-woocommerce/woocommerce-one-page-checkout-and-layouts.php"] a[data-title="Joy Checkout"]{
+    display: none !important;    
+}
+#custom-checkout-layouts-for-woocommerce-update{
+    display: none !important;
+}
